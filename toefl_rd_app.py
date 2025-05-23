@@ -126,7 +126,7 @@ st.markdown(
 
 
 # Ruta absoluta del archivo del pasaje
-PASAGE_PATH = "C:/Users/ALEX/Desktop/DIPLOMADO UPB ED SUPERIOR Y APRENDIZAJE BASADO EN IA/M2. DISEÑO Y DESARROLLO DE PROYECTOS DE ABIA/toefl_rd_app/data/natufian.txt"
+PASAGE_PATH = "natufian.txt"
 
 # Leer el contenido del pasaje
 with open(PASAGE_PATH, 'r', encoding='utf-8') as file:
